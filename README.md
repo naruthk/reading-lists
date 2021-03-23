@@ -68,7 +68,7 @@ An actively growing list of articles, blog posts, books, open-source projects, a
 - [James Sinclair](https://jrsinclair.com/) - Writes about web development
 - [JavaScript Weekly](https://javascriptweekly.com/) - A newsletter of JavaScript articles, news and cool projects
 - [Front-End Front](https://frontendfront.com/) - A crowd curated feed of front-end related articles
-- [Overreacted.io] - Blog posts by Dan Abhramov, co-author of Redux and Create React App
+- [Overreacted.io](https://overreacted.io/) - Blog posts by Dan Abhramov, co-author of Redux and Create React App
 - [Kent C. Dodds's Blog](https://kentcdodds.com/blog/) - Kent C. Dodd's blog posts on React and web development
 
 ---

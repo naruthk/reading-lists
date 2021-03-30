@@ -10,18 +10,28 @@ An actively growing list of articles, blog posts, books, open-source projects, a
 
 - [Building a real-time collaborative editor using Operational Transformation](https://link.medium.com/Cx8SZnK2Peb) (algorithm used on Google Docs, etc.)
 - [Beyond Console.log() – Level up Your Debugging Skills](https://www.sitepoint.com/beyond-console-log-level-up-your-debugging-skills/)
+
+### JavaScript
 - [JavaScript: What is the meaning of this?](https://web.dev/javascript-this/)
+- [A Plain English Guide to JavaScript Prototypes](https://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 
 ### React
 
 - [A Complete Guide to useEffect](https://overreacted.io/a-complete-guide-to-useeffect/) - Dan Abramov
 - [React as a UI Runtime](https://overreacted.io/react-as-a-ui-runtime/) - Dan Abramov
 - [Before You memo()](https://overreacted.io/before-you-memo/) - Dan Abramov
+- [RFC proposing React Hooks APIs](https://github.com/reactjs/rfcs/blob/master/text/0068-react-hooks.md) - React Core Team (now an [official documentation](https://reactjs.org/docs/hooks-intro.html) is provided)
+- [How to fetch data with React Hooks?](https://www.robinwieruch.de/react-hooks-fetch-data) - Robin Wieruch
 
 ### Git
 
 - [What is git rebase?](https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase)
 - [How to update a forked repo with git rebase](https://medium.com/@topspinj/how-to-git-rebase-into-a-forked-repo-c9f05e821c8a)
+
+### CSS
+
+- [CSS Grid Cheat Sheet Illustrated in 2021](https://dev.to/joyshaheb/css-grid-cheat-sheet-illustrated-in-2021-1a3)
+- [FlexBox Cheat Sheets in 2021 || CSS 2021](https://dev.to/joyshaheb/flexbox-cheat-sheets-in-2021-css-2021-3edl)
 
 ---
 
@@ -30,6 +40,10 @@ An actively growing list of articles, blog posts, books, open-source projects, a
 ### General
 
 - [Awesome](https://github.com/sindresorhus/awesome) - Awesome lists about all kinds of interesting topics
+
+### Interviews
+
+- [Awesome Interview Questions](https://github.com/DopplerHQ/awesome-interview-questions) - Maintained by Doppler HQ
 
 ### JavaScript
 
@@ -73,6 +87,13 @@ An actively growing list of articles, blog posts, books, open-source projects, a
 
 ---
 
+## Videos
+
+### JavaScript
+
+- [What the heck is the event loop anyway?](https://www.youtube.com/watch?v=8aGhZQkoFbQ) - YouTube
+
+---
 ## Coding Interview Practices
 
 - [LeetCode](https://leetcode.com/)
